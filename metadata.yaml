@@ -1,0 +1,35 @@
+_repo: The-mating-impulse_73249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balmer, Edwin
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '36187'
+    url: http://www.gutenberg.org/2009/agents/36187
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
+description: ''
+gutenberg_issued: '2024-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73249'
+language: en
+pgterms:marc904: https://archive.org/details/popular-magazine-v-031-n-03-1914-02-15
+pgterms:marc905: 20240312121759balmer
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Suffragists -- Fiction'
+- !lcsh 'Terrorism -- Fiction'
+- !lcsh 'Ocean liners -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The mating impulse
+url: http://www.gutenberg.org/ebooks/73249
