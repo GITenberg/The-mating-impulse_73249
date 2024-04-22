@@ -1,5 +1,8 @@
 _repo: The-mating-impulse_73249
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73249-h/images/cover.jpg
 creator:
   author:
     agent_name: Balmer, Edwin
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36187
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73249#The-mating-impulse
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
